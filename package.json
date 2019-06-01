@@ -1,0 +1,13 @@
+{
+  "name": "meteorites-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-router": "^7.4.0",
+    "lodash": "^4.17.11",
+    "meteoritesData": "Alexsey/meteoritesData"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
